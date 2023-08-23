@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "root",
-    "password": "Sumanbiswas123@",
+    "password": "Shanubiswas220",
     "database": "blogspot",
-    "host": "localhost",
+    "host": "database-1.cxzsx3gtavh5.eu-north-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
